@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+crop_yield_results/
+*.joblib
+.venv/
+venv/
+.env
