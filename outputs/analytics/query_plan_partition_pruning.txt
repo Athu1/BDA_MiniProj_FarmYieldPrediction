@@ -1,0 +1,6 @@
+AdaptiveSparkPlan isFinalPlan=false
++- HashAggregate(keys=[crop#15567], functions=[count(1)], output=[crop#15567, count#15656L])
+   +- Exchange hashpartitioning(crop#15567, 16), ENSURE_REQUIREMENTS, [plan_id=5764]
+      +- HashAggregate(keys=[crop#15567], functions=[partial_count(1)], output=[crop#15567, count#15660L])
+         +- Project [crop#15567]
+            +- FileScan parquet [crop#15567,season_year#15593] Batched: true, DataFilters: [], Format: Parquet, Location: InMemoryFileIndex(1 paths)[file:/E:/college/Sem7/BDA/MiniProj_BDA_v3/MiniProj/data/lake/gold/farm..., PartitionFilters: [isnotnull(season_year#15593), (season_year#15593 = 2024)], PushedFilters: [], ReadSchema: struct<crop:string>

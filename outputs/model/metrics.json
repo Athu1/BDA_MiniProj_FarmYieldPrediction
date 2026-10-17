@@ -1,0 +1,111 @@
+{
+  "n_train": 1599196,
+  "n_test": 399806,
+  "fast_mode": false,
+  "linear_regression": {
+    "overall": {
+      "rmse": 0.647,
+      "mae": 0.4337,
+      "r2": 0.7214
+    },
+    "tur": {
+      "rmse": 0.4393,
+      "mae": 0.2642,
+      "r2": -2.107
+    },
+    "paddy": {
+      "rmse": 1.1684,
+      "mae": 0.9612,
+      "r2": 0.5626
+    },
+    "soybean": {
+      "rmse": 0.4611,
+      "mae": 0.3254,
+      "r2": 0.0588
+    },
+    "cotton": {
+      "rmse": 0.4229,
+      "mae": 0.3205,
+      "r2": -0.0721
+    }
+  },
+  "tuning": [
+    {
+      "maxDepth": 5,
+      "maxIter": 40,
+      "stepSize": 0.1,
+      "val_rmse": 0.3574
+    },
+    {
+      "maxDepth": 5,
+      "maxIter": 80,
+      "stepSize": 0.1,
+      "val_rmse": 0.3446
+    },
+    {
+      "maxDepth": 7,
+      "maxIter": 40,
+      "stepSize": 0.1,
+      "val_rmse": 0.3474
+    },
+    {
+      "maxDepth": 7,
+      "maxIter": 80,
+      "stepSize": 0.1,
+      "val_rmse": 0.3416
+    }
+  ],
+  "best_params": {
+    "maxDepth": 7,
+    "maxIter": 80,
+    "stepSize": 0.1,
+    "val_rmse": 0.3416
+  },
+  "gbt": {
+    "overall": {
+      "rmse": 0.3583,
+      "mae": 0.2334,
+      "r2": 0.9145
+    },
+    "tur": {
+      "rmse": 0.1468,
+      "mae": 0.1111,
+      "r2": 0.6529
+    },
+    "paddy": {
+      "rmse": 0.6489,
+      "mae": 0.4666,
+      "r2": 0.8651
+    },
+    "soybean": {
+      "rmse": 0.2568,
+      "mae": 0.1921,
+      "r2": 0.708
+    },
+    "cotton": {
+      "rmse": 0.2776,
+      "mae": 0.2062,
+      "r2": 0.538
+    }
+  },
+  "train_seconds_total": 628.4,
+  "feature_importance": {
+    "crop": 0.4183949724515391,
+    "season_rain_mm": 0.27989883726283327,
+    "soil_ph": 0.057272086371302384,
+    "district_code": 0.04626695441120309,
+    "irrigated": 0.03699322993112768,
+    "variety_type": 0.035895843360615,
+    "mean_temp_c": 0.0342829587356874,
+    "nitrogen_kg_ha": 0.03035592912031607,
+    "longest_dry_spell_days": 0.027741024751845093,
+    "area_ha": 0.01036909859561116,
+    "rainy_days": 0.0063389603700271325,
+    "sowing_delay_days": 0.00525680241141466,
+    "soil_oc_pct": 0.004734056372490922,
+    "soil_k_kg_ha": 0.0018036342435954768,
+    "soil_n_kg_ha": 0.0016580228296660929,
+    "soil_p_kg_ha": 0.0016500973674390903,
+    "region": 0.0010874914132860587
+  }
+}

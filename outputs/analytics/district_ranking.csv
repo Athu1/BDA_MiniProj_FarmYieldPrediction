@@ -1,0 +1,100 @@
+district,region,crop,mean_yield,cv_pct,farm_records,yield_rank
+Chandrapur,Vidarbha,cotton,1.449,2.6,16875,1
+Yavatmal,Vidarbha,cotton,1.441,6.7,43072,2
+Nanded,Marathwada,cotton,1.425,6.2,18267,3
+Wardha,Vidarbha,cotton,1.388,16.4,18316,4
+Nashik,North Maharashtra,cotton,1.376,14.1,22078,5
+Hingoli,Marathwada,cotton,1.354,13.3,18168,6
+Bhandara,Vidarbha,cotton,1.351,3.4,6695,7
+Washim,Vidarbha,cotton,1.349,19.2,22114,8
+Nagpur,Vidarbha,cotton,1.315,22.3,35301,9
+Amravati,Vidarbha,cotton,1.271,21.5,32405,10
+Parbhani,Marathwada,cotton,1.26,16.1,26629,11
+Nandurbar,North Maharashtra,cotton,1.258,22.1,13302,12
+Akola,Vidarbha,cotton,1.257,17.4,26471,13
+Latur,Marathwada,cotton,1.214,18.0,12973,14
+Dhule,North Maharashtra,cotton,1.173,19.4,15798,15
+Gondia,Vidarbha,cotton,1.16,15.6,6054,16
+Buldhana,Vidarbha,cotton,1.134,22.3,28121,17
+Jalgaon,North Maharashtra,cotton,1.133,29.0,41581,18
+Kolhapur,Western Maharashtra,cotton,1.109,8.9,6800,19
+Beed,Marathwada,cotton,1.107,20.9,27983,20
+Chh. Sambhajinagar,Marathwada,cotton,1.063,31.5,18186,21
+Ahilyanagar,North Maharashtra,cotton,1.044,17.3,22959,22
+Sangli,Western Maharashtra,cotton,1.017,26.8,5477,23
+Dharashiv,Marathwada,cotton,0.991,32.2,17023,24
+Jalna,Marathwada,cotton,0.965,22.2,24515,25
+Solapur,Western Maharashtra,cotton,0.863,21.9,12942,26
+Sindhudurg,Konkan,paddy,4.707,5.6,19500,1
+Palghar,Konkan,paddy,4.691,4.6,21804,2
+Thane,Konkan,paddy,4.66,4.5,28274,3
+Ratnagiri,Konkan,paddy,4.569,5.1,39205,4
+Raigad,Konkan,paddy,4.55,5.6,19276,5
+Kolhapur,Western Maharashtra,paddy,4.045,7.3,23825,6
+Gondia,Vidarbha,paddy,3.784,14.7,29228,7
+Gadchiroli,Vidarbha,paddy,3.523,19.2,21319,8
+Bhandara,Vidarbha,paddy,3.354,19.5,31094,9
+Chandrapur,Vidarbha,paddy,2.608,24.4,35479,10
+Nashik,North Maharashtra,paddy,2.277,33.8,14511,11
+Satara,Western Maharashtra,paddy,1.68,33.2,14046,12
+Nagpur,Vidarbha,paddy,1.506,39.9,6733,13
+Pune,Western Maharashtra,paddy,1.496,33.6,19395,14
+Nandurbar,North Maharashtra,paddy,1.125,60.5,6124,15
+Yavatmal,Vidarbha,paddy,1.045,44.3,8044,16
+Amravati,Vidarbha,paddy,0.754,61.2,6338,17
+Akola,Vidarbha,paddy,0.613,38.7,5150,18
+Buldhana,Vidarbha,paddy,0.51,50.4,5445,19
+Nashik,North Maharashtra,soybean,1.594,7.6,22925,1
+Pune,Western Maharashtra,soybean,1.548,10.0,34822,2
+Satara,Western Maharashtra,soybean,1.467,18.1,30662,3
+Kolhapur,Western Maharashtra,soybean,1.45,7.8,29817,4
+Chandrapur,Vidarbha,soybean,1.445,9.3,15941,5
+Bhandara,Vidarbha,soybean,1.415,14.2,6040,6
+Wardha,Vidarbha,soybean,1.256,19.8,14471,7
+Nandurbar,North Maharashtra,soybean,1.247,21.3,7551,8
+Jalgaon,North Maharashtra,soybean,1.246,25.1,25765,9
+Yavatmal,Vidarbha,soybean,1.216,11.1,33828,10
+Hingoli,Marathwada,soybean,1.214,8.7,27846,11
+Nagpur,Vidarbha,soybean,1.201,19.5,28391,12
+Nanded,Marathwada,soybean,1.175,18.3,27828,13
+Washim,Vidarbha,soybean,1.172,23.1,18310,14
+Dhule,North Maharashtra,soybean,1.123,29.1,10444,15
+Sangli,Western Maharashtra,soybean,1.089,24.9,28334,16
+Latur,Marathwada,soybean,1.038,22.2,19674,17
+Amravati,Vidarbha,soybean,1.034,28.1,26337,18
+Parbhani,Marathwada,soybean,1.022,21.4,40888,19
+Akola,Vidarbha,soybean,0.996,20.8,21439,20
+Chh. Sambhajinagar,Marathwada,soybean,0.974,27.0,27561,21
+Solapur,Western Maharashtra,soybean,0.965,25.7,38803,22
+Buldhana,Vidarbha,soybean,0.959,23.2,21875,23
+Ahilyanagar,North Maharashtra,soybean,0.941,17.3,26510,24
+Beed,Marathwada,soybean,0.914,29.9,41963,25
+Jalna,Marathwada,soybean,0.832,27.8,37647,26
+Dharashiv,Marathwada,soybean,0.801,30.2,25566,27
+Nashik,North Maharashtra,tur,0.952,3.8,12910,1
+Chandrapur,Vidarbha,tur,0.918,5.7,9793,2
+Wardha,Vidarbha,tur,0.905,3.7,6929,3
+Pune,Western Maharashtra,tur,0.894,7.7,19496,4
+Satara,Western Maharashtra,tur,0.888,5.4,16161,5
+Bhandara,Vidarbha,tur,0.876,6.2,6091,6
+Nagpur,Vidarbha,tur,0.868,5.9,13542,7
+Washim,Vidarbha,tur,0.861,11.7,8478,8
+Yavatmal,Vidarbha,tur,0.858,5.7,16392,9
+Jalgaon,North Maharashtra,tur,0.857,12.2,14860,10
+Nanded,Marathwada,tur,0.843,5.5,10187,11
+Hingoli,Marathwada,tur,0.833,3.6,10116,12
+Dhule,North Maharashtra,tur,0.812,15.1,6786,13
+Akola,Vidarbha,tur,0.797,10.5,9897,14
+Latur,Marathwada,tur,0.788,13.9,7459,15
+Gondia,Vidarbha,tur,0.788,10.6,5530,16
+Amravati,Vidarbha,tur,0.777,18.1,12906,17
+Parbhani,Marathwada,tur,0.76,14.3,14852,18
+Buldhana,Vidarbha,tur,0.752,14.9,10225,19
+Sangli,Western Maharashtra,tur,0.743,17.3,22086,20
+Beed,Marathwada,tur,0.738,15.8,15319,21
+Kolhapur,Western Maharashtra,tur,0.738,10.0,7012,22
+Chh. Sambhajinagar,Marathwada,tur,0.737,18.8,9975,23
+Ahilyanagar,North Maharashtra,tur,0.703,13.7,24018,24
+Jalna,Marathwada,tur,0.678,16.0,14005,25
+Dharashiv,Marathwada,tur,0.667,23.4,9844,26
+Solapur,Western Maharashtra,tur,0.656,20.3,34108,27

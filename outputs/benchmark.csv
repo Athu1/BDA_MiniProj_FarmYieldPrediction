@@ -1,0 +1,7 @@
+test,pandas_or_left,spark_or_right,note
+Read 2 M-row raw CSV (10 files),2.96,2.86,"2,006,000 rows"
+Storage size: raw CSV vs Silver Parquet (MB),138.5,31.9,snappy-compressed columnar
+Load Gold table fully into memory,2.89,,"pandas uses 1,578 MB RAM vs 69.1 MB on disk"
+Group-by mean: district x crop x year,0.26,3.08,pandas excludes its load time
+Spark: all 10 seasons vs one season (partition pruning),1.5,0.66,"left = full scan, right = only season_year=2024 folder read"
+"Join 2 M x 200 k x 367 rows, then aggregate",1.23,3.7,Spark broadcasts the small table

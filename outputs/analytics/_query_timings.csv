@@ -1,0 +1,13 @@
+query,result_rows,seconds
+state_crop_trend,40,2.38
+district_crop_year,1300,1.66
+rainfall_impact,24,0.96
+dry_spell_impact,40,0.9
+nitrogen_response,37,0.75
+soil_ph_response,37,0.71
+district_ranking,99,1.47
+yield_anomalies,50,1.51
+variety_adoption,150,0.78
+farm_consistency,11,3.58
+sowing_delay_impact,72,0.65
+kpis,1,1.9

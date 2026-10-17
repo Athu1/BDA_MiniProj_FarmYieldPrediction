@@ -1,0 +1,8 @@
+{
+  "batches": 10,
+  "records": 30000,
+  "last_batch_id": 9,
+  "last_batch_rows": 3000,
+  "last_batch_seconds": 2.71,
+  "updated": "2026-10-06 20:36:02"
+}

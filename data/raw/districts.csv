@@ -1,0 +1,35 @@
+district_code,district,region,normal_rain_mm,irrigated_share
+THN,Thane,Konkan,2500,0.1
+PLG,Palghar,Konkan,2400,0.08
+RGD,Raigad,Konkan,3100,0.08
+RTG,Ratnagiri,Konkan,3200,0.05
+SDG,Sindhudurg,Konkan,3000,0.06
+NSK,Nashik,North Maharashtra,1000,0.35
+DHL,Dhule,North Maharashtra,600,0.25
+NDB,Nandurbar,North Maharashtra,850,0.2
+JLG,Jalgaon,North Maharashtra,700,0.3
+AHM,Ahilyanagar,North Maharashtra,520,0.4
+PUN,Pune,Western Maharashtra,850,0.4
+STR,Satara,Western Maharashtra,900,0.45
+SNG,Sangli,Western Maharashtra,520,0.5
+KLP,Kolhapur,Western Maharashtra,1700,0.55
+SLP,Solapur,Western Maharashtra,500,0.4
+CSN,Chh. Sambhajinagar,Marathwada,650,0.22
+JLN,Jalna,Marathwada,650,0.2
+BED,Beed,Marathwada,600,0.18
+LTR,Latur,Marathwada,720,0.2
+DRS,Dharashiv,Marathwada,650,0.2
+NND,Nanded,Marathwada,900,0.2
+PBN,Parbhani,Marathwada,800,0.18
+HGL,Hingoli,Marathwada,850,0.15
+NGP,Nagpur,Vidarbha,1050,0.25
+WRD,Wardha,Vidarbha,1000,0.2
+BHD,Bhandara,Vidarbha,1300,0.4
+GND,Gondia,Vidarbha,1350,0.4
+CHD,Chandrapur,Vidarbha,1200,0.3
+GDC,Gadchiroli,Vidarbha,1450,0.25
+AMR,Amravati,Vidarbha,800,0.18
+AKL,Akola,Vidarbha,750,0.15
+WSM,Washim,Vidarbha,850,0.15
+YTL,Yavatmal,Vidarbha,900,0.12
+BLD,Buldhana,Vidarbha,700,0.15

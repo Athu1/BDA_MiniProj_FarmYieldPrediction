@@ -1,0 +1,20 @@
+{
+  "farm_seasons_raw_rows": 2006000,
+  "exact_duplicate_records": 6000,
+  "crop_name_variants_fixed": 120788,
+  "dates_in_dd_mm_yyyy": 301155,
+  "yields_reported_in_quintals": 188444,
+  "nitrogen_missing": 59941,
+  "nitrogen_implausible_set_null": 988,
+  "variety_missing": 20045,
+  "farm_seasons_silver_rows": 1999002,
+  "implausible_yield_rows_removed": 998,
+  "weather_raw_rows": 615193,
+  "weather_sentinel_minus999": 612,
+  "weather_missing_days": 2468,
+  "soil_cards": 210542,
+  "farms_with_soil_card": 156082,
+  "soil_cards_missing_ph": 2167,
+  "farms": 200000,
+  "seconds": 53.7
+}

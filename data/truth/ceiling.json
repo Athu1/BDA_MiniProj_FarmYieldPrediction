@@ -1,0 +1,10 @@
+{
+  "r2_ceiling_test_years": {
+    "cotton": 0.622,
+    "paddy": 0.923,
+    "soybean": 0.837,
+    "tur": 0.806,
+    "all_crops": 0.948
+  },
+  "farm_season_rows": 2006000
+}
